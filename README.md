@@ -30,6 +30,8 @@ Despite the greater upfront investment, the benefits of resource recovery and su
 <br>
 [Astrobiology Modelling](https://chatgpt.com/g/g-675ea3ac6b588191b85fb518b3e7a640-astrobiology-modelling)
 <br>
+[Station in Space](https://chatgpt.com/g/g-RhQ7LG2GQ-station-in-space)
+<br>
 [Astrochem](https://chatgpt.com/g/g-67e85194e1ec8191ae8b6371778e78c8-astrochem)
 <br>
 [ISS Module](https://chatgpt.com/g/g-6776da708084819182e560df751a84fa-iss-module)
