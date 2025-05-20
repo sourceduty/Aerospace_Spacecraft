@@ -1,0 +1,37 @@
+Space_Industry
+│
+├── Launch_Providers
+│ ├── SpaceX
+│ ├── United_Launch_Alliance_(ULA)
+│ ├── Rocket_Lab
+│ ├── Blue_Origin
+│ ├── Firefly_Aerospace
+│
+├── Satellite_Manufacturers
+│ ├── Maxar_Technologies
+│ ├── Planet_Labs
+│ ├── AST_SpaceMobile
+│ ├── SES
+│ ├── Starlink_(SpaceX)
+│
+├── Space_Exploration
+│ ├── SpaceX
+│ ├── Blue_Origin
+│ ├── ispace
+│ ├── Axiom_Space
+│ ├── Voyager_Space_Holdings
+│
+├── Space_Technology_and_Services
+│ ├── Redwire
+│ ├── Sierra_Space
+│ ├── Nanoracks
+│ ├── Astroscale
+│ ├── Orbit_Fab
+│
+└── Space_Research_and_Development
+├── SpacePharma
+├── Space_Forge
+├── Origin_Space
+├── Advanced_Space
+├── Southwest_Research_Institute
+├── Sourceduty

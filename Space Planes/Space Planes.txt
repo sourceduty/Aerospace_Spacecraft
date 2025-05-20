@@ -1,0 +1,31 @@
+Space Planes Topology with Inspirations  
+--------------------------------------------------------
+Early Experimental Space Planes  
+├── Silbervogel (Nazi Germany, suborbital bomber concept) → Theoretical origins  
+├── X-15 (USA, first crewed spaceplane) → Rocket-powered, Mach 6.7, inspired later designs  
+├── Dyna-Soar (USA, military spaceplane project) → Cancelled but influenced Shuttle & future spaceplanes  
+├── Spiral OS-120 (USSR, early Shuttle-like project) → Never flown, but shaped Buran  
+  
+Space Shuttle Era  
+├── Space Shuttle (USA) → First reusable crewed spaceplane, inspired by X-15 & Dyna-Soar  
+├── Buran (USSR) → Soviet counterpart to Shuttle, fully automated capability  
+├── Hermes (ESA, planned but cancelled Shuttle-like spaceplane) → Inspired by Shuttle but smaller  
+├── HOPE-X (Japan, experimental spaceplane) → Derived from Shuttle and Hermes concepts  
+  
+Modern & Private Space Planes  
+├── Dream Chaser (Sierra Space, USA) → Lifting-body design based on NASA HL-20  
+├── SpaceShipOne (Scaled Composites, first private suborbital plane) → Based on X-15 concept  
+│   ├── SpaceShipTwo (Virgin Galactic) → Evolved from SpaceShipOne, designed for commercial tourism  
+│  
+Military & Hypersonic Space Planes  
+├── X-37B (USAF, reusable robotic spaceplane) → Derived from Shuttle & X-40 programs  
+├── X-41 (USA, classified hypersonic spaceplane project) → Likely based on Dyna-Soar & X-30  
+├── X-30 NASP (USA, scramjet-powered spaceplane concept) → Precursor to X-43 & hypersonic programs  
+├── X-43 (USA, scramjet demonstrator) → Achieved Mach 9.6, key step for hypersonic tech  
+├── X-51 Waverider (USA, hypersonic flight testbed) → Inspired by X-43, led to future hypersonic spaceplanes  
+├── Boeing XS-1 Phantom Express (USA, DARPA project) → Shuttle-like rapid reuse system (cancelled)  
+
+Future Space Planes  
+├── SpaceLiner (Germany, suborbital spaceplane concept) → Hypersonic passenger travel  
+├── Skylon (UK, SABRE-powered SSTO spaceplane) → Inspired by HOTOL (1980s UK project)  
+├── Starship (SpaceX, fully reusable spaceplane-like rocket) → Evolution of Shuttle & Buran principles  

@@ -1,0 +1,63 @@
+Space Vehicles & Satellites Topology with Inspirations  
+--------------------------------------------------------
+Human Spaceflight Vehicles  
+├── Early Spacecraft  
+│   ├── Vostok (USSR, first human in space) → Inspired by R-7 ICBM  
+│   ├── Mercury (USA, first American in orbit) → Based on Redstone & Atlas missiles  
+│   ├── Gemini (USA, two-person crew, EVA, docking) → Evolution of Mercury  
+│   ├── Voskhod (USSR, multi-crew, first spacewalk) → Upgraded Vostok  
+│  
+├── Moon Missions  
+│   ├── Apollo Command Module (USA) → Derived from Gemini, Saturn V launched  
+│   ├── Apollo Lunar Module (USA) → First true extraterrestrial lander  
+│  
+├── Space Shuttle Era  
+│   ├── Space Shuttle (USA) → Inspired by Dyna-Soar, reusable orbiter  
+│   ├── Buran (USSR) → Soviet response to Shuttle, automated flight  
+│  
+├── Modern Crew Vehicles  
+│   ├── Soyuz (USSR/Russia, ISS transport) → Inspired by Vostok & Voskhod  
+│   ├── Orion (USA, deep-space crew vehicle) → Inspired by Apollo, larger capacity  
+│   ├── Crew Dragon (SpaceX) → Based on Dragon cargo vehicle  
+│   ├── Starliner (Boeing) → Commercial crew capsule, similar to Apollo  
+│   ├── Starship (SpaceX) → Fully reusable, inspired by Shuttle & Saturn V  
+│  
+Robotic Spacecraft & Rovers  
+├── Early Robotic Missions  
+│   ├── Luna (USSR, first Moon impact & soft landing) → Inspired by ICBM designs  
+│   ├── Ranger (USA, first Moon impact attempts) → Precursor to Surveyor  
+│   ├── Surveyor (USA, first soft landing on Moon) → Pathway for Apollo  
+│  
+├── Mars Rovers  
+│   ├── Sojourner (USA, first Mars rover) → Small experimental design  
+│   ├── Spirit & Opportunity (USA, long-duration rovers) → Inspired by Sojourner  
+│   ├── Curiosity (USA, nuclear-powered) → Based on Spirit/Opportunity  
+│   ├── Perseverance (USA, sample-return tech) → Upgraded Curiosity design  
+│  
+Satellite Systems  
+├── Early Satellites  
+│   ├── Sputnik 1 (USSR, first satellite) → Based on R-7 ICBM  
+│   ├── Explorer 1 (USA, first US satellite) → Based on Juno rocket  
+│  
+├── Navigation Satellites  
+│   ├── Transit (USA, first navigation satellite) → Inspired GPS system  
+│   ├── GPS (USA, global positioning system) → Successor to Transit  
+│   ├── GLONASS (Russia) → Soviet counterpart to GPS  
+│   ├── Galileo (EU) → European GPS alternative  
+│  
+├── Communication Satellites  
+│   ├── Telstar (USA, first active relay satellite) → Inspired by Echo passive sat  
+│   ├── Intelsat series (Global) → Evolved from early comsats  
+│   ├── Starlink (SpaceX, LEO internet) → Mega-constellation model  
+│  
+├── Earth Observation Satellites  
+│   ├── Landsat (USA, Earth imaging) → Inspired by early reconnaissance satellites  
+│   ├── GOES (USA, weather monitoring) → Based on early NOAA sats  
+│   ├── Sentinel (EU, environmental monitoring) → Successor to Envisat  
+│  
+├── Deep Space Probes  
+│   ├── Pioneer (USA, first interplanetary probe) → Inspired by early Earth satellites  
+│   ├── Voyager (USA, deep space exploration) → Based on Pioneer design  
+│   ├── Cassini-Huygens (USA/ESA, Saturn mission) → Built on Voyager success  
+│   ├── New Horizons (USA, Pluto flyby) → Evolved from Voyager & Galileo  
+│   ├── Parker Solar Probe (USA, Sun study) → Inspired by Helios & Ulysses  
