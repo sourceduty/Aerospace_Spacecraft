@@ -20,6 +20,12 @@ Despite the greater upfront investment, the benefits of resource recovery and su
 
 #
 
+![Sourcerocket](https://github.com/user-attachments/assets/259ea091-a2bc-4662-b48e-3e586e6c0217)
+
+[Rocket X](https://chatgpt.com/g/g-6777882825a48191acbc23268a64844d-rocket-x) is a custom GPT developed to optimize and simulate the trajectories, performance, and overall design of rockets for both hobbyists and professionals. It integrates a comprehensive understanding of rocket mechanics, environmental factors (such as wind speed, temperature, and altitude), and real-time data to offer precise calculations and predictions for flight paths. Rocket X assists users by analyzing specific rocket specifications—such as motor type, payload weight, fin configurations, and thrust-to-weight ratios—providing them with optimized recommendations for launch angles, staging strategies, and predicted landing zones. Whether you're a beginner seeking accessible guides for assembling rockets or an expert in need of industry-level telemetry analysis and safety compliance, Rocket X serves as a versatile tool. It can also help analyze historical launch data, identify potential improvements, and offer detailed instructions for ensuring legal compliance with regional regulations. Ultimately, Rocket X is a powerful, intuitive platform that ensures successful rocket launches through careful planning, design refinement, and performance optimization.
+
+#
+
 [Astronaut Software](https://chatgpt.com/g/g-F89U0wJa0-astronaut-software)
 <br>
 [Astrobiology Modelling](https://chatgpt.com/g/g-675ea3ac6b588191b85fb518b3e7a640-astrobiology-modelling)
