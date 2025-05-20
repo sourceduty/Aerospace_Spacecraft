@@ -1,0 +1,13 @@
+SpaceX Vehicle and Engine Hierarchy
+
+SpaceX Vehicles
+  ├── Falcon 9 (Reusable, 2-stage)
+  │   ├── First Stage (Merlin 1D engines)
+  │   └── Second Stage (Merlin Vacuum engine)
+  ├── Falcon Heavy (Reusable, 3-stage)
+  │   ├── Boosters (Merlin 1D engines)
+  │   └── Second Stage (Merlin Vacuum engine)
+  └── Starship (Fully Reusable, 2-stage)
+      ├── Super Heavy Booster (Raptor engines)
+      └── Starship Upper Stage (Raptor engines)
+          └── Starship Engines (Raptor engines, full-scale)

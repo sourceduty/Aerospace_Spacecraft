@@ -1,0 +1,53 @@
+SpaceX Raptor Engine Iteration Process
+
+├── **Initial Concept & Objectives**
+│   ├── Define performance targets (thrust, ISP, efficiency)
+│   ├── Establish reusability goals (restarts, durability)
+│   ├── Select propellant combination (CH4/LOX for efficiency & reusability)
+│   ├── Determine operational environments (sea level and vacuum)
+
+├── **Raptor 1 Development**
+│   ├── Full-Flow Staged Combustion Cycle implementation
+│   ├── Initial turbopump and combustion chamber design
+│   ├── Challenges:
+│   │   ├── Complexity in plumbing and turbopumps
+│   │   ├── High cooling demands
+│   │   ├── Pressure and combustion instability
+│   ├── Testing milestones:
+│   │   ├── Static fires to validate the full-flow combustion cycle
+│   │   ├── Material stress and thermal durability testing
+│
+├── **Raptor 2 Refinements**
+│   ├── Simplified and more compact design
+│   ├── Improved thrust-to-weight ratio
+│   ├── Upgraded injector and turbopump efficiency
+│   ├── Enhanced cooling mechanisms and regenerative cooling system
+│   ├── Challenges:
+│   │   ├── Scaling manufacturing processes
+│   │   ├── Increased need for material performance at high pressures
+│   ├── Testing milestones:
+│   │   ├── Prolonged burns for endurance testing
+│   │   ├── Vacuum-optimized and sea-level variants testing
+│
+├── **Raptor 3 Advancements**
+│   ├── Further reductions in complexity and weight
+│   ├── Increased thrust output and better efficiency
+│   ├── Optimized nozzle design for enhanced ISP
+│   ├── Simplified plumbing and increased system reliability
+│   ├── Challenges:
+│   │   ├── Maximizing scalability for Starship production goals
+│   │   ├── Addressing wear and tear in high-reuse scenarios
+│   ├── Testing milestones:
+│   │   ├── Integrated flight testing with Starship prototypes
+│   │   ├── Demonstrating rapid turnaround and reuse capabilities
+│
+├── **"Raptor 3.5" (Conceptual Refinement or Humor Variant)**
+│   ├── Potential exploration of radically simplified designs
+│   ├── Emphasis on aesthetics or non-functional representations
+
+├── **Continuous Improvement Across Iterations**
+│   ├── Data collection from live tests and operational launches
+│   ├── Materials research and introduction of advanced alloys
+│   ├── Cost optimization for mass production
+│   ├── Feedback loops for rapid prototyping and iteration
+│   ├── Exploration of new technologies for next-generation engines

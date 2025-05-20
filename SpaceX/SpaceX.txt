@@ -1,0 +1,47 @@
+SpaceX
+│
+├── CEO: Elon Musk
+│
+├── Executive Team
+│   ├── President and COO: Gwynne Shotwell
+│   ├── CTO: Tom Mueller
+│   └── Other Executives
+│
+├── Engineering and Development
+│   ├── Rocket Engineering
+│   │   ├── Falcon Rockets
+│   │   └── Starship
+│   ├── Spacecraft Engineering
+│   │   └── Dragon
+│   ├── Propulsion
+│   ├── Avionics
+│   ├── Software
+│   └── Testing and Manufacturing
+│
+├── Launch and Operations
+│   ├── Launch Services
+│   ├── Space Launch Operations
+│   ├── Satellite Services
+│   └── Ground Operations
+│
+├── R&D (Research and Development)
+│   ├── Future Rocket Technologies
+│   ├── Mars Exploration Plans
+│   └── Advanced Propulsion Systems
+│
+├── Government and Commercial Partnerships
+│   ├── NASA Contracts
+│   ├── Military Contracts
+│   ├── Commercial Satellite Launches
+│   └── Space Tourism
+│
+├── Manufacturing and Production
+│   ├── Rocket Production
+│   ├── Vehicle Assembly
+│   ├── Parts Supply and Logistics
+│   └── Quality Control
+│
+└── Space Exploration and Mars Mission
+    ├── Mars Colonization Plans
+    ├── Starship Development for Mars
+    └── Interplanetary Transport System

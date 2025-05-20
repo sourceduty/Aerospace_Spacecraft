@@ -1,0 +1,41 @@
+Raptor 3 Engine  
+│  
+├── Propulsion System  
+│   ├── Preburners  
+│   │   ├── Oxygen Preburner  
+│   │   ├── Methane Preburner  
+│   ├── Combustion Chamber  
+│   ├── Nozzle  
+│  
+├── Fuel and Oxidizer Feed System  
+│   ├── Methane Inlet  
+│   ├── Liquid Oxygen (LOX) Inlet  
+│   ├── High-Pressure Pumps  
+│   │   ├── Methane Pump  
+│   │   ├── LOX Pump  
+│   ├── Turbopumps  
+│  
+├── Ignition System  
+│   ├── Spark Igniters  
+│   ├── Auto-Ignition Capability  
+│  
+├── Thrust Vector Control (TVC)  
+│   ├── Hydraulic Actuators  
+│   ├── Gimbal Mechanism  
+│  
+├── Cooling System  
+│   ├── Regenerative Cooling Channels  
+│   ├── Film Cooling Mechanism  
+│  
+├── Sensors and Telemetry  
+│   ├── Pressure Sensors  
+│   ├── Temperature Sensors  
+│   ├── Thrust Load Cells  
+│  
+├── Engine Control Unit (ECU)  
+│   ├── Digital Flight Control Interface  
+│   ├── Throttle and Mixture Control  
+│  
+├── Mounting and Structural Components  
+│   ├── Engine Bell Support  
+│   ├── Structural Reinforcements  
