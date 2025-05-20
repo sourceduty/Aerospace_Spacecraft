@@ -29,3 +29,5 @@ Despite the greater upfront investment, the benefits of resource recovery and su
 [ISS Module](https://chatgpt.com/g/g-6776da708084819182e560df751a84fa-iss-module)
 <br>
 [Assisted ISS](https://chatgpt.com/g/g-67aff86c79a88191b6d03e496c9e3080-assisted-iss)
+<br>
+[Mars](https://chatgpt.com/g/g-aLfw9aF2J-mars)
