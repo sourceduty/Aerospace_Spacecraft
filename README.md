@@ -22,6 +22,12 @@ Aerospace technology has been a cornerstone of human innovation, propelling huma
 
 #
 
+![Bomber Captain](https://github.com/user-attachments/assets/385d2e75-7729-488b-8f93-6af9d6df1d12)
+
+[Bomber Captain](https://chatgpt.com/g/g-682e1b73fcb0819184cfc36e1ec62347-bomber-captain) is a specialized simulation assistant designed to immerse users in the strategic and tactical execution of precision bombing missions within a retro-inspired, terminal-based environment. It functions as a virtual command center for airborne operations, allowing users to initiate, plan, and execute simulated sorties with a high degree of realism and control. Through structured terminal commands, the GPT supports mission initialization, target identification, payload configuration, and real-time bombing runs, while also enabling reconnaissance deployment, evasive maneuvers, and mid-flight path adjustments. Post-mission, it offers detailed battle damage assessments and performance analytics, helping users refine their strategies for future operations. Whether used for training, simulation, or entertainment, Bomber Captain offers a deeply interactive experience that combines military precision with analytical depth, placing the user in full command of a digital bombing campaign.
+
+#
+
 ![Sourcerocket](https://github.com/user-attachments/assets/259ea091-a2bc-4662-b48e-3e586e6c0217)
 
 [Rocket X](https://chatgpt.com/g/g-6777882825a48191acbc23268a64844d-rocket-x) is a custom GPT developed to assist in the planning, optimization, and analysis of rocket launches, whether for hobbyist or professional purposes. It uses advanced computational techniques to simulate and optimize various aspects of rocket performance, such as flight trajectories, thrust-to-weight ratios, and the effect of environmental factors like wind, temperature, and altitude on flight paths. Users can input specific rocket specifications—such as motor type, payload weight, and fin configurations—and Rocket X provides tailored recommendations on optimal launch angles, staging configurations, and predicted landing zones to ensure the most successful outcome. Additionally, it offers detailed guidance on rocket assembly, design, and safety considerations, including regional regulations and compliance. For professionals, Rocket X integrates telemetry systems and recovery assessments, making it a comprehensive tool for optimizing rocket performance from launch to recovery. Whether you're a beginner looking for accessible explanations or an expert seeking advanced technical insights, Rocket X provides a user-friendly interface that adapts to all levels of expertise.
@@ -33,9 +39,7 @@ Aerospace technology has been a cornerstone of human innovation, propelling huma
 [Space Simulator](https://chatgpt.com/g/g-HiBjZs8sv-space-simulator) was developed to simulate various aspects of NASA missions, including mission planning, troubleshooting unforeseen events, and post-mission analysis. It provides detailed and technical responses that reflect current practices in space exploration, ensuring scientific accuracy and using relevant space exploration terminology. The GPT acts in roles such as mission planner, astronaut, mission control specialist, or space scientist depending on the scenario, with a focus on educating users about the intricacies of space missions, problem-solving during critical moments, and the complex decision-making processes involved. Whether simulating a manned or unmanned mission to celestial bodies, space station operations, or theoretical missions beyond our solar system, the GPT provides structured responses that break down complex concepts, employing technical aerospace engineering and astrophysics terms while balancing clarity for both experts and enthusiasts. Its responses encompass aspects like spacecraft design, crew selection, life support systems, payload management, and deep-space navigation, while also incorporating real-world mission data, such as delta-v calculations, Hohmann transfer orbits, and interplanetary navigation. The tool aims to inspire interest in space exploration, educate on the technological and scientific challenges of space missions, and engage users through realistic mission scenarios.
 
 #
-
 ![Chrome Helicopter](https://github.com/user-attachments/assets/0ddc2808-45bf-4f05-950a-9dc460c87ee8)
-
 #
 
 [Astronaut Software](https://chatgpt.com/g/g-F89U0wJa0-astronaut-software)
