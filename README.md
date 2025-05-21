@@ -45,3 +45,5 @@ Aerospace technology has been a cornerstone of human innovation, propelling huma
 [Assisted ISS](https://chatgpt.com/g/g-67aff86c79a88191b6d03e496c9e3080-assisted-iss)
 <br>
 [Mars](https://chatgpt.com/g/g-aLfw9aF2J-mars)
+<br>
+[Superdrone](https://chatgpt.com/g/g-676f91417e608191b05de4f065695233-superdrone)
