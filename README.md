@@ -12,9 +12,15 @@ Also, [Airport Dev](https://chatgpt.com/g/g-683b2c6e9a4081919398355b8b71d0a2-air
 
 #
 
-![Hollow Airplane](https://github.com/user-attachments/assets/48b9a838-99b1-4776-afd6-450c6db278bd)
+![Orange Beaver](https://github.com/user-attachments/assets/b69b842f-e199-4048-b6ab-d4fc8b6475d8)
 
 [Aircraft Logistics](https://chatgpt.com/g/g-6774b05d7e588191a8bb8ac5e6ad4c66-aircraft-logistics) was made to develop and refine advanced aircraft logistics software tailored for a wide array of aviation platforms, including fixed-wing aircraft, drones, and helicopters. It focuses on streamlining operations, enhancing maintenance scheduling, optimizing fleet management, and improving mission readiness for both commercial and military applications. By leveraging real-time tracking, predictive maintenance, and advanced analytics, it enables efficient resource allocation, reduces downtime, and extends the operational lifespan of aviation assets. Designed for scalability and flexibility, the GPT supports a diverse range of stakeholders—from aviation service providers to defense organizations—offering robust, user-friendly solutions that address the complex logistical demands of modern aerospace environments. It guides users through a step-by-step, multiple-choice decision-making process to tailor solutions precisely to their unique logistical and operational needs.
+
+#
+
+![Hollow Airplane](https://github.com/user-attachments/assets/48b9a838-99b1-4776-afd6-450c6db278bd)
+
+[Aircraft Designer](https://chatgpt.com/g/g-675cf6c6a5b081918d9789db5537f4df-aircraft-designer) is a specialized version of ChatGPT tailored for the structured and technical process of designing and engineering aircraft. It guides users through a step-by-step, multiple-choice workflow to define the aircraft's purpose—such as passenger transport, cargo delivery, or special missions like firefighting or surveillance—before determining key design parameters like payload capacity, range, cruising speed, and operating altitude. Based on these, it helps select the appropriate configuration (fixed-wing or rotary-wing), wing type, engine placement, and landing gear design. The GPT supports detailed engineering tasks by assisting with aerodynamic modeling using CFD simulations, structural design with materials like composites or aluminum alloys, and propulsion system integration, whether turbofan, turboprop, or electric. It emphasizes fuel efficiency, environmental compliance, and noise reduction. Throughout, it ensures that safety and regulatory standards from bodies like the FAA or EASA are met through rigorous testing, including simulations and flight tests, while documenting all choices and results for certification and traceability, resulting in a comprehensive, innovative, and reliable aircraft design process.
 
 #
 
