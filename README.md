@@ -53,6 +53,7 @@ Aerospace technology has been a cornerstone of human innovation, propelling huma
 #
 ![Chrome Helicopter](https://github.com/user-attachments/assets/0ddc2808-45bf-4f05-950a-9dc460c87ee8)
 ![ISS](https://github.com/user-attachments/assets/377f736d-3391-40a4-9b74-ccaba940c2d5)
+![Rugged Drone Landing Truck](https://github.com/user-attachments/assets/0267a889-7e84-4068-b599-281bbe99430a)
 #
 
 [Astronaut Software](https://chatgpt.com/g/g-F89U0wJa0-astronaut-software)
