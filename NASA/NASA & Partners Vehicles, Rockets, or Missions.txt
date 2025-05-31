@@ -1,0 +1,32 @@
+NASA and Partners Vehicles, Rockets, and Missions
+
+NASA and Partners
+  ├── NASA
+  │   ├── Space Launch System (SLS)
+  │   │   ├── Block 1 (RS-25 engines, Solid Rocket Boosters)
+  │   │   ├── Block 1B (RS-25 engines, Exploration Upper Stage)
+  │   │   └── Block 2 (RS-25 engines, Exploration Upper Stage, additional boosters)
+  │   ├── Orion Spacecraft
+  │   │   ├── Crew Module (for astronauts)
+  │   │   └── Service Module (ESA provided)
+  │   ├── Artemis Missions
+  │   │   ├── Artemis I (uncrewed lunar mission)
+  │   │   ├── Artemis II (crewed lunar flyby)
+  │   │   └── Artemis III (crewed lunar landing)
+  │   └── Mars Mission (Perseverance Rover, Ingenuity Helicopter)
+  │       ├── Perseverance Rover (Mars exploration)
+  │       └── Ingenuity Helicopter (Mars aerial exploration)
+  ├── SpaceX (Partner)
+  │   ├── Falcon 9 (Reusable, 2-stage)
+  │   │   ├── First Stage (Merlin 1D engines)
+  │   │   └── Second Stage (Merlin Vacuum engine)
+  │   └── Crew Dragon Capsule (for crewed missions to ISS)
+  ├── Boeing (Partner)
+  │   ├── CST-100 Starliner (Crewed and cargo missions)
+  │   └── Atlas V Rocket (for Starliner launches)
+  ├── Lockheed Martin (Partner)
+  │   ├── Orion Spacecraft (with NASA)
+  │   └── Mars Missions (partnership in spacecraft development)
+  └── Northrop Grumman (Partner)
+      ├── Cygnus (Cargo missions to ISS)
+      └── Antares Rocket (launches Cygnus spacecraft)

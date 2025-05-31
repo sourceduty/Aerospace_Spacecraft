@@ -1,0 +1,101 @@
+NASA History
+|
+|-- Mercury Program (1958-1963)
+|   |-- Vehicles
+|   |   |-- Mercury-Redstone 3 (Freedom 7)
+|   |   |-- Mercury-Atlas 6 (Friendship 7)
+|   |
+|   |-- Missions
+|   |   |-- First U.S. manned spaceflight (Alan Shepard, 1961)
+|   |   |-- First U.S. orbital flight (John Glenn, 1962)
+|   |
+|   |-- Astronauts
+|   |   |-- Alan Shepard
+|   |   |-- John Glenn
+|   |   |-- Gus Grissom
+|
+|-- Gemini Program (1965-1966)
+|   |-- Vehicles
+|   |   |-- Gemini-Titan II
+|   |
+|   |-- Missions
+|   |   |-- First spacewalk (Ed White, 1965)
+|   |   |-- First rendezvous in space (Gemini 6 and 7, 1965)
+|   |
+|   |-- Astronauts
+|   |   |-- Gus Grissom
+|   |   |-- John Young
+|   |   |-- Ed White
+|
+|-- Apollo Program (1961-1972)
+|   |-- Vehicles
+|   |   |-- Saturn V
+|   |   |-- Lunar Module
+|   |
+|   |-- Missions
+|   |   |-- Apollo 11 (First manned Moon landing, 1969)
+|   |   |-- Apollo 13 (Moon mission that did not land due to technical issues, 1970)
+|   |
+|   |-- Astronauts
+|   |   |-- Neil Armstrong
+|   |   |-- Buzz Aldrin
+|   |   |-- Michael Collins
+|   |   |-- Jim Lovell
+|
+|-- Skylab Program (1973-1974)
+|   |-- Vehicles
+|   |   |-- Saturn IB
+|   |
+|   |-- Missions
+|   |   |-- First U.S. space station (Skylab)
+|   |   |-- Skylab crewed missions (SL-2, SL-3, SL-4)
+|   |
+|   |-- Astronauts
+|   |   |-- Pete Conrad
+|   |   |-- Jack Lousma
+|   |   |-- Alan Bean
+|
+|-- Space Shuttle Program (1981-2011)
+|   |-- Vehicles
+|   |   |-- Space Shuttle (e.g., Atlantis, Endeavour, Challenger, Discovery)
+|   |
+|   |-- Missions
+|   |   |-- First Space Shuttle flight (STS-1, 1981)
+|   |   |-- Hubble Space Telescope deployment (STS-31, 1990)
+|   |   |-- First U.S. female spacewalker (Sally Ride, 1984)
+|   |   |-- Space Shuttle Challenger disaster (STS-51-L, 1986)
+|   |
+|   |-- Astronauts
+|   |   |-- Sally Ride
+|   |   |-- John Young
+|   |   |-- Christa McAuliffe
+|   |   |-- Francis Scobee
+|
+|-- Mars Exploration Program (1997-present)
+|   |-- Vehicles
+|   |   |-- Spirit Rover
+|   |   |-- Opportunity Rover
+|   |   |-- Curiosity Rover
+|   |   |-- Perseverance Rover
+|   |   |-- Ingenuity (Mars Helicopter)
+|   |
+|   |-- Missions
+|   |   |-- Mars Pathfinder (1997)
+|   |   |-- Mars Curiosity Rover (2012)
+|   |   |-- Mars Perseverance Rover (2021)
+|   |
+|   |-- Astronauts
+|   |   |-- Opportunity for human Mars missions in the future
+|
+|-- Artemis Program (2020s-present)
+|   |-- Vehicles
+|   |   |-- Space Launch System (SLS)
+|   |   |-- Orion spacecraft
+|   |
+|   |-- Missions
+|   |   |-- Artemis I (uncrewed mission to the Moon, 2022)
+|   |   |-- Planned crewed missions to the Moon and Mars
+|   |
+|   |-- Astronauts
+|   |   |-- First woman on the Moon (Planned)
+|   |   |-- Diverse astronaut selections for future lunar missions

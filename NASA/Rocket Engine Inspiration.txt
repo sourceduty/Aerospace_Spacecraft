@@ -1,0 +1,34 @@
+Rocket Engines Topology with Inspirations  
+--------------------------------------------------------
+NASA Engines  
+├── Early Engines  
+│   ├── Rocketdyne A-7 (Redstone) → Inspired by V-2 Rocket A-4  
+│   ├── F-1 (Saturn V, Apollo) → Based on E-1, influenced by V-2  
+│   ├── J-2 (Saturn V upper stage) → Derived from RL10, new turbopump  
+│  
+├── Space Shuttle & SLS Engines  
+│   ├── RS-25 (SSME, Shuttle & SLS) → Derived from J-2, added throttleability  
+│   ├── RL10 (Centaur, SLS ICPS) → Based on RL-10A, world’s first staged combustion engine  
+│   ├── AJ10 (Apollo SPS, Orion) → Developed from early Vanguard engines  
+│  
+├── Delta & Ares Programs  
+│   ├── RS-68 (Delta IV) → Simplified RS-25 for expendable use  
+│   ├── J-2X (Ares I, cancelled) → Updated J-2 for deep space missions  
+│  
+Private Rocket Engines  
+├── SpaceX  
+│   ├── Merlin 1D (Falcon 9) → Based on V-2, upgraded for reusability  
+│   ├── Raptor 2 (Starship, Methalox) → Inspired by Soviet RD-270  
+│   ├── Vacuum Raptor (Starship upper stage) → Based on Raptor 2, optimized for vacuum  
+│  
+├── Blue Origin  
+│   ├── BE-3 (New Shepard) → Derived from RL10 but with throttleability  
+│   ├── BE-4 (New Glenn, Vulcan) → Inspired by Soviet RD-180 but Methalox  
+│  
+├── Aerojet Rocketdyne  
+│   ├── AR1 (ULA, replaced by BE-4) → Designed as a replacement for RD-180  
+│  
+Future & Experimental Engines  
+├── X3 Ion Thruster (Hall-effect) → Inspired by Soviet Hall Thrusters  
+├── Nuclear Thermal Engines (Deep Space) → Based on NERVA (1960s)  
+├── Metalox Engines (Methane-based, Mars) → Inspired by ISRU concepts for Mars colonization  

@@ -1,0 +1,52 @@
+NASA (National Aeronautics and Space Administration)
+|
+|-- Administrator
+|   |
+|   |-- Deputy Administrator
+|       |
+|       |-- Mission Directorates
+|           |
+|           |-- Aeronautics Research Mission Directorate (ARMD)
+|           |-- Human Exploration and Operations Mission Directorate (HEOMD)
+|           |-- Science Mission Directorate (SMD)
+|           |-- Space Technology Mission Directorate (STMD)
+|           |-- Space Operations Mission Directorate (SOMD)
+|
+|-- Centers
+|   |
+|   |-- Ames Research Center
+|   |-- Armstrong Flight Research Center
+|   |-- Glenn Research Center
+|   |-- Johnson Space Center
+|   |-- Kennedy Space Center
+|   |-- Langley Research Center
+|   |-- Marshall Space Flight Center
+|   |-- Stennis Space Center
+|   |-- Goddard Space Flight Center
+|
+|-- Offices
+|   |
+|   |-- Office of the Chief Engineer
+|   |-- Office of Communications
+|   |-- Office of International and Interagency Relations
+|   |-- Office of Legislative Affairs
+|   |-- Office of Inspector General
+|
+|-- Supporting Divisions
+|   |
+|   |-- Office of Procurement
+|   |-- Office of Small Business Programs
+|   |-- Office of the Chief Financial Officer
+|
+|-- Advisory Bodies
+|   |
+|   |-- NASA Advisory Council (NAC)
+|   |-- Aerospace Safety Advisory Panel (ASAP)
+|
+|-- Programs and Projects
+|   |
+|   |-- Artemis Program
+|   |-- James Webb Space Telescope (JWST)
+|   |-- Mars Exploration Program
+|   |-- Commercial Crew Program
+|   |-- Lunar Gateway Program
