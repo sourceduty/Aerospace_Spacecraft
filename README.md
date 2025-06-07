@@ -10,7 +10,7 @@ Aerospace technology has been a cornerstone of human innovation, propelling huma
 
 <br>
 
-![Fly](https://github.com/user-attachments/assets/9e63ee6c-b9ad-403d-b447-10704cba1064)
+![First Class Airplane](https://github.com/user-attachments/assets/210e17dc-e616-4446-b929-d249f3248f28)
 
 <br>
 
