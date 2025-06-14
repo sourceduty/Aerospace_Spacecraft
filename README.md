@@ -112,3 +112,5 @@ Skydive dirt biking, also known as paraglide dirt biking, is an extreme sport th
 [Superdrone](https://chatgpt.com/g/g-676f91417e608191b05de4f065695233-superdrone)
 <br>
 [Supersonic](https://chatgpt.com/g/g-676c03d058188191b85d3b354b66e180-supersonic)
+<br>
+[Flight Mapping](https://chatgpt.com/g/g-684de153b1e081919f9e994ec4dec425-flight-mapping)
