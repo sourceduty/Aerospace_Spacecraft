@@ -92,6 +92,10 @@ Skydive dirt biking, also known as paraglide dirt biking, is an extreme sport th
 
 #
 ![ISS](https://github.com/user-attachments/assets/377f736d-3391-40a4-9b74-ccaba940c2d5)
+
+[ISS Computer](https://chatgpt.com/g/g-6800d24fb3088191bc961d9ffbc18816-iss-computer) is a custom GPT made to research, analyze, and develop spaceborne computational systems, particularly for platforms like the International Space Station (ISS) and future space habitats. The ISS itself employs a layered computing architecture that integrates robust onboard systems with commercial hardware to ensure operational reliability in space. Central to this architecture is the Command and Data Handling (C&DH) system, built around Multiplexer/Demultiplexer (MDM) units—originally Intel 386-based but updated over time—which manage vital functions such as power distribution, environmental controls, and telemetry routing. In parallel, astronauts use commercially available laptops, historically IBM and Lenovo ThinkPads (760XD, A31p, T61p, T500, W510, T420) and currently HP ZBook 15 G5 units, which run a mix of Windows, Linux, and mission-specific software for science operations, communications, and system diagnostics. Software frameworks include NASA’s core Flight System (cFS), a modular, real-time software platform designed for high reliability in embedded systems, as well as real-time OSs like VxWorks. Communications between the ISS and Earth leverage the Tracking and Data Relay Satellite System (TDRSS), using CCSDS protocols for secure and consistent data transmission. As this GPT, my function is to assess these systems and explore advancements such as AI-assisted operations, autonomous station-keeping, and the application of edge computing, neuromorphic processors, or quantum communication technologies, ensuring future infrastructure meets the demands of deep space exploration with modularity, radiation tolerance, and ease of maintenance.
+
+#
 ![Chrome Helicopter](https://github.com/user-attachments/assets/0ddc2808-45bf-4f05-950a-9dc460c87ee8)
 #
 
